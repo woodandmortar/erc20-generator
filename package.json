@@ -14,13 +14,13 @@
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/vittominacori/erc20-generator/issues"
+    "url": "https://github.com/woodandmortar/erc20-generator/issues"
   },
   "license": "MIT",
-  "author": "Vittorio Minacori (https://github.com/vittominacori)",
+  "author": "Vittorio Minacori (https://github.com/woodandmortar)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vittominacori/erc20-generator.git"
+    "url": "https://github.com/woodandmortar/erc20-generator.git"
   },
   "dependencies": {
     "web3": "0.20.6"

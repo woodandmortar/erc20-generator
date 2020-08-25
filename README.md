@@ -11,8 +11,8 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable ERC20 To
 Code created using [VuePress](https://vuepress.vuejs.org/).
 
 ## Smart Contracts Source
- 
-Discover Smart Contracts source [here](https://github.com/vittominacori/erc20-generator).
+
+Discover Smart Contracts source [here](https://github.com/woodandmortar/erc20-generator).
 
 ## Install dependencies
 
@@ -40,4 +40,4 @@ npm run deploy
 
 ## License
 
-Code released under the [MIT License](https://github.com/vittominacori/erc20-generator/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/woodandmortar/erc20-generator/blob/master/LICENSE).
